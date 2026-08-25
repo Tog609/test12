@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\vanya\\test12\\test\\WebApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\vanya\\test12\\test\\WebApplication1\\DockerFile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:DockerFile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3CFC374-4EE1-4ADE-B22B-47CA22B3EBA7}|WebApplication1.csproj|c:\\users\\vanya\\test12\\test\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3CFC374-4EE1-4ADE-B22B-47CA22B3EBA7}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DockerFile.txt",
+              "DocumentMoniker": "C:\\Users\\vanya\\test12\\test\\WebApplication1\\Dockerfile.txt",
+              "RelativeDocumentMoniker": "Dockerfile.txt",
+              "ToolTip": "C:\\Users\\vanya\\test12\\test\\WebApplication1\\Dockerfile.txt",
+              "RelativeToolTip": "Dockerfile.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-08-25T17:46:26.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vanya\\test12\\test\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
